@@ -1,0 +1,16 @@
+body
+{
+    margin: 50px auto;
+    max-width: 600px;
+    background-image: url("../img/grid.png");
+    background-repeat: repeat;
+    background-size: 10px 10px;
+}
+
+article
+{
+    color: red;
+    background-image: url("../img/test.png");
+    background-repeat: repeat;
+    background-size: 300px 300px;
+}
